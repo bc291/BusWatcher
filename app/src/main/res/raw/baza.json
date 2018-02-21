@@ -1,0 +1,69 @@
+{
+  "lastUpdate" : "2017-10-21 19:08:13",
+  "delay" : [ {
+    "id" : "T12R110",
+    "delayInSeconds" : 57,
+    "estimatedTime" : "19:09",
+    "headsign" : "Wrzeszcz PKP",
+    "routeId" : 110,
+    "tripId" : 12,
+    "status" : "REALTIME",
+    "theoreticalTime" : "19:09",
+    "timestamp" : "19:07:47",
+    "trip" : 713150,
+    "vehicleCode" : 2737,
+    "vehicleId" : 468
+  }, {
+    "id" : "T11R122",
+    "delayInSeconds" : 207,
+    "estimatedTime" : "19:24",
+    "headsign" : "Sopot",
+    "routeId" : 122,
+    "tripId" : 11,
+    "status" : "REALTIME",
+    "theoreticalTime" : "19:21",
+    "timestamp" : "19:07:46",
+    "trip" : 709181,
+    "vehicleCode" : 8050,
+    "vehicleId" : 379
+  }, {
+    "id" : "T32R157",
+    "delayInSeconds" : 6,
+    "estimatedTime" : "19:24",
+    "headsign" : "Wrzeszcz PKP",
+    "routeId" : 157,
+    "tripId" : 32,
+    "status" : "REALTIME",
+    "theoreticalTime" : "19:24",
+    "timestamp" : "19:07:47",
+    "trip" : 711770,
+    "vehicleCode" : 2734,
+    "vehicleId" : 465
+  }, {
+    "id" : "T12R227",
+    "delayInSeconds" : 230,
+    "estimatedTime" : "19:31",
+    "headsign" : "Jelitkowo",
+    "routeId" : 227,
+    "tripId" : 12,
+    "status" : "REALTIME",
+    "theoreticalTime" : "19:28",
+    "timestamp" : "19:07:47",
+    "trip" : 710993,
+    "vehicleCode" : 2615,
+    "vehicleId" : 116
+  }, {
+    "id" : "T12R110",
+    "delayInSeconds" : 0,
+    "estimatedTime" : "19:39",
+    "headsign" : "Wrzeszcz PKP",
+    "routeId" : 110,
+    "tripId" : 12,
+    "status" : "REALTIME",
+    "theoreticalTime" : "19:39",
+    "timestamp" : "19:07:47",
+    "trip" : 706576,
+    "vehicleCode" : 2742,
+    "vehicleId" : 145599
+  } ]
+}
