@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.ktoto.bazio.przystanki"
+        applicationId "com.ktoto.bus.przystanki"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
